@@ -1,4 +1,4 @@
-package org.bq.sample;
+package com.bq.sample;
 
 public class FirstProgram {
   public static void main(String args[]){
