@@ -29,6 +29,11 @@ this is typed by vijay2
 
 
 This is typed by daniel
+<<<<<<< HEAD
+This is typed by Prathipa.p
+This was seen by prathipa
+Prathipa 
+=======
 this is revathy
 
 
@@ -44,3 +49,4 @@ Typed by Karthikeyan222`
 
 This  is typed by vijay
 
+>>>>>>> c7612ecade0617b9b31d5797b54349a1fc45118a
