@@ -1,4 +1,5 @@
-<<<<<<< HEAD
+
+
 
 
 
@@ -11,6 +12,22 @@ hi
 hello
 welcome
 vannakam
-=======
+
 This is typed by vijay
->>>>>>> 3c73fe77d6b3e9b0b5583e978a8ff83aa042fd8b
+
+
+
+
+This is ajay
+
+
+
+This is typed by daniel
+
+This is typed by daniel
+this is typed by vignesh
+
+
+This is typed by vijay
+
+
